@@ -75,9 +75,14 @@ Contexto educacional: Imersão Engenharia de Dados da Alura, setembro/2026. Font
 
 ## Anotações 
 
+### Aula 01 - Comece no Databricks e veja o que você vai construir
+
+---
+
 ### Aula 02 - Domine a Ingestão de Dados Brutos 
 
-Nesta aula, vimos
+Nesta aula:
+
 - Entender a arquitetura medalhão (Bronze, Silver e Gold) e sua importância na governança de dados.
 
 - Descobrir como utilizar o Genie (IA do Databricks) para acelerar o desenvolvimento de códigos e análises.
@@ -113,3 +118,48 @@ Aprofundar nos seguintes tópicos:
 [Aplicações de SQL em diversas áreas](https://www.alura.com.br/artigos/aplicacoes-sql-diversas-areas)
 
 [O que é a Arquitetura Medallion? | Databricks](https://www.databricks.com/br/blog/what-is-medallion-architecture)
+
+---
+
+### Aula 03 - Domine a Ingestão de Dados Brutos 
+
+Nesta aula:
+
+- Entender o papel da camada Silver na governança, qualidade e padronização dos dados.
+
+- Aprender a tipar colunas, tratar valores nulos e calcular métricas derivadas, como o atraso real dos voos.
+
+- Descobrir como unificar tabelas de diferentes fontes em uma única visão consolidada.
+
+- Adicionar metadados de governança (data de carga, usuário e versão do pipeline) para rastreabilidade e auditoria.
+
+- Conhecer a orquestração de pipelines via Jobs do Databricks e a governança com Unity Catalog.
+
+---
+
+### Aula 04 - Crie seu Agente de IA no Databricks
+
+Nesta aula:
+
+- Utilizar o Genie Code como especialista em governança para identificar tratamentos de qualidade nos dados da Silver.
+
+- Construir um processo de Data Quality que impede o carregamento de dados inválidos, como códigos ICAO vazios.
+
+- Conhecer o Spark Declarative Pipelines e suas três etapas: dados marcados, auditados e em quarentena.
+
+- Aplicar constraints e expectations em SQL para validar regras de negócio automaticamente.
+Modelar a camada Gold utilizando o conceito de One Big Table (OBT), unindo fatos e dimensões em uma única tabela.
+
+- Explorar rastreabilidade e linhagem de dados através do Unity Catalog, incluindo o registro de eventos de qualidade.
+
+---
+
+Aprofundar nos seguintes tópicos:
+
+- [Storytelling com dados: transforme seus dados em narrativas envolventes](https://www.alura.com.br/artigos/storytelling-com-dados)
+
+- [Transformando dados em insights: como criar um relatório baseado em análises de dados](https://www.alura.com.br/artigos/transformar-dados-em-insights)
+
+---
+
+### Aula 05 - Publique seu pipeline e desbrave sua Carreira em Dados com IA
